@@ -10,6 +10,7 @@ function Header(){
           <li>About</li>
           <li>Contact</li>
           <li>Projects</li>
+          <li>Store</li>
         </ul>
       </nav>
       <button type="submit">Contact</button>
