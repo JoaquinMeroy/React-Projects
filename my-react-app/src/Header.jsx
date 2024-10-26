@@ -9,6 +9,7 @@ function Header(){
           <li>Home</li>
           <li>About</li>
           <li>Contact</li>
+          <li>Projects</li>
         </ul>
       </nav>
       <button type="submit">Contact</button>
