@@ -13,7 +13,7 @@ function Header(){
           <li>Store</li>
         </ul>
       </nav>
-      <button type="submit">Contact</button>
+      <button type="submit" className="btn btn-primary px-4">Contact</button>
     </header>
   );
 }
